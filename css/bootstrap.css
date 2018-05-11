@@ -11,7 +11,22 @@ html {
 }
 body {
   margin: 0;
+
+  
 }
+h1{
+
+    background: #000;
+    color: yellow;
+    border: solid;
+
+    
+    }
+  portfolio-box{
+    size: 20px;
+     
+
+  }
 article,
 aside,
 details,
